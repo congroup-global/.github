@@ -1,0 +1,1 @@
+![Congroup - Mapa de Soluciones Microsoft](https://github.com/congroup-global/.github/blob/main/images/mapa-de-soluciones.png)
